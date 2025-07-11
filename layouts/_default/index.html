@@ -1,0 +1,8 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>Welcome to {{ .Site.Title }}</h1>
+  <p>Thoughts on entrepreneurship, purpose & balance.</p>
+  <img src="{{ "/images/home-hero.jpg" | relURL }}" alt="Ocean" style="margin-top:2rem;max-width:100%;border-radius:12px">
+</section>
+<div class="container">{{ .Content }}</div>
+{{ end }} 
