@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-![Desk]({{ "images/about-hero.jpg" | relURL }})
+{{< figure src="images/about-hero.jpg" alt="Desk" >}}
 
 ## Hey — I’m Khe
 
