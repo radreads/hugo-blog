@@ -1,4 +1,4 @@
-baseURL = "https://yourusername.github.io/"
+baseURL = "https://radreads.github.io/"
 languageCode = "en-us"
 title = "Meet Khe Hy"
 enableRobotsTXT = true
@@ -7,4 +7,4 @@ enableRobotsTXT = true
   pagerSize = 7
 
 [params]
-  description = "Entrepreneur, Coach & Writer" 
+  description = "Entrepreneur, Coach and Writer" 
