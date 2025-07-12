@@ -5,7 +5,7 @@
   {{ if .IsHome }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
 </head><body>
 <header>
-  <a href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+  <a href="{{ "" | relURL }}">{{ .Site.Title }}</a>
   <nav>
     <a href="{{ "/" | relURL }}">Home</a>
     <a href="{{ "about/" | relURL }}">About</a>
