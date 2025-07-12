@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-![Desk](/images/about-hero.jpg)
+![Desk](images/about-hero.jpg)
 
 ## Hey — I’m Khe
 
