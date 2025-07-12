@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-{{< figure src="images/about-hero.jpg" alt="Desk" >}}
+![Desk](/hugo-blog/images/about-hero.jpg)
 
 ## Hey — I’m Khe
 
