@@ -8,9 +8,9 @@
   <a href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
   <nav>
     <a href="{{ "/" | relURL }}">Home</a>
-    <a href="{{ "/about/" | relURL }}">About</a>
-    <a href="{{ "/blog/" | relURL }}">Blog</a>
-    <a href="{{ "/contact/" | relURL }}">Contact</a>
+    <a href="{{ "about/" | relURL }}">About</a>
+    <a href="{{ "blog/" | relURL }}">Blog</a>
+    <a href="{{ "contact/" | relURL }}">Contact</a>
   </nav>
 </header>
 <main>{{ block "main" . }}{{ end }}</main>
